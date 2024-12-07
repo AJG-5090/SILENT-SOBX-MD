@@ -14,7 +14,7 @@ module.exports = {
     AUTO_VOICE: process.env.AUTO_VOICE || "true",
     AUTO_STICKER: process.env.AUTO_STICKER || "true",
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
-    ALIVE_IMG: process.env.ALIVE_IMG || "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
+    ALIVE_IMG: process.env.ALIVE_IMG || "https://i.pinimg.com/736x/6c/0f/35/6c0f35707200948816b824b27301b292.jpg",
     ALIVE_MSG: process.env.ALIVE_MSG || "Hii mother fucker senku i'm Alive my king 😊♻️",
     ANTI_LINK: process.env.ANTI_LINK || "true",
     ANTI_BAD: process.env.ANTI_BAD || "true",
