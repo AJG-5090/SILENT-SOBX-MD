@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "GNRSEQQA#k-zne_lTmLgbjLyXduo0MaCZCGj0LJ6PIoiL6iQ0Yus",
+    SESSION_ID: process.env.SESSION_ID || "eJpz1YaS#789EpdqBIaeCachDAL8rPgO3O0TK5xKOL5GD09YQyd8",
     CAPTION: process.env.CAPTION || "POWERED BY SILENTLOVER432",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "false",
     READ_MESSAGE: process.env.READ_MESSAGE || "false", // Added auto-read configuration
@@ -14,7 +14,7 @@ module.exports = {
     AUTO_VOICE: process.env.AUTO_VOICE || "true",
     AUTO_STICKER: process.env.AUTO_STICKER || "true",
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
-    ALIVE_IMG: process.env.ALIVE_IMG || "https://i.pinimg.com/736x/8c/3a/eb/8c3aebc6599bc978fc138732b4a81b40.jpg",
+    ALIVE_IMG: process.env.ALIVE_IMG || "https://i.pinimg.com/736x/ab/3c/8f/ab3c8f0939dd3b0df456d1959ce4994f.jpg",
     ALIVE_MSG: process.env.ALIVE_MSG || "Hii mother fucker senku i'm Alive my king 😊♻️",
     ANTI_LINK: process.env.ANTI_LINK || "true",
     ANTI_BAD: process.env.ANTI_BAD || "true",
